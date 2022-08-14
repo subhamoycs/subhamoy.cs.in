@@ -54,11 +54,15 @@
 }
 
 .social-menu ul li:nth-child(4) a:hover {
-    background-color: #e4405f;
+    background-color: #e44095;
 }
 
 .social-menu ul li:nth-child(5) a:hover {
     background-color: #d4072c;
+}
+
+.social-menu ul li:nth-child(6) a:hover {
+    background-color: #1d1d1d;
 }
 
 .container {
